@@ -1,0 +1,10 @@
+# Venv folder
+.venv/
+
+# Temporary Folders
+__pycache__/
+
+# Folders
+
+# Files
+token_file.py
